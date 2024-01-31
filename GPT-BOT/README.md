@@ -14,23 +14,10 @@
 npm install
 ```
 
-- Using yarn
-```powershell
-yarn
-```
-
-3. Create a new file called `.env` and copy the format from `.env.example` (or you can just rename `.env.example`)
+3. Create a new file called `.env` and copy the format from `.env.txt` (or you can just rename `.env.txt`)
 
 4. Update `.env` with your own credentials.
 
 5. Start your bot
 
-- Using npm
-```powershell
-npm run start
-```
-
-- Using yarn
-```powershell
-yarn start
-```
+node index.js
